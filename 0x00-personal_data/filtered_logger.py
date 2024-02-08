@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Defines a logger with custom log formatter
+Defines a logger with custom log- formatter
 """
 import os
 import re
